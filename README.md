@@ -1,5 +1,4 @@
-# Spacecraft Cleanroom Resistome Dynamics 🚀🦠
-### *Environmental Resistome and Homogenization of Extremotolerant Communities in Jet Propulsion Laboratory Cleanroom Environments*
+# Environmental Resistome and Homogenization of Extremotolerant Communities in Jet Propulsion Laboratory Cleanroom Environments
 
 **Author(s):** Md Abu Sadat Soash  
 *Department of Genetic Engineering and Biotechnology*<br>
