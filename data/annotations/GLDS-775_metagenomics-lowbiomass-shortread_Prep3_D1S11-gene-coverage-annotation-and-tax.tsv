@@ -1,0 +1,13 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D1S11_4_1	19.5432	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S11_13_1	24.2610	NA	NA	1386	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+c_D1S11_14_1	7.9681	NA	NA	1386	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+c_D1S11_16_1	6.0556	NA	NA	186817	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	NA	NA
+c_D1S11_17_1	9.5232	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S11_18_1	13.3333	NA	NA	374	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	NA
+c_D1S11_18_2	8.6936	NA	NA	2631580	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Bradyrhizobiaceae	Bradyrhizobium	NA
+c_D1S11_20_1	10.2713	K15575	naphthyl-2-oxomethyl-succinyl-CoA thiolase subunit [EC:2.3.1.-]	1386	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+c_D1S11_22_1	3.5556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S11_23_1	22.0429	NA	NA	1386	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA
+c_D1S11_24_1	13.1922	NA	NA	324768	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus idriensis
+c_D1S11_28_1	16.0149	K21836	D-lactate dehydrogenase (acceptor) [EC:1.1.99.6]	1386	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	NA

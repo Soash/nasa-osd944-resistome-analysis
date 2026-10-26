@@ -1,0 +1,64 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D2S12_4_1	2.4556	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_9_1	22.9853	NA	NA	1528099	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	NA	Lawsonella	Lawsonella clevelandensis
+c_D2S12_10_1	14.4844	K00615	transketolase [EC:2.2.1.1]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_12_1	3.7731	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_14_1	40.4109	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_16_1	16.1455	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_16_2	3.7938	K03303	lactate permease	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_17_1	13.7109	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_19_1	22.7758	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_20_1	16.8896	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_22_1	15.0862	K01775	alanine racemase [EC:5.1.1.1]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_23_1	9.0000	NA	NA	1313	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae
+c_D2S12_25_1	21.3431	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_27_1	21.6573	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D2S12_30_1	5.7148	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_31_1	3.7456	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_32_1	16.2702	K01520	dUTP diphosphatase [EC:3.6.1.23]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_33_1	15.0430	NA	NA	1302242	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S12_34_1	16.2294	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_35_1	12.6542	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_36_1	10.3621	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_37_1	16.9583	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_38_1	20.9708	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_39_1	19.3362	NA	NA	33885	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium lacticum
+c_D2S12_44_1	7.6242	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_45_1	12.1019	NA	NA	1896313	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces sp. CBMA123
+c_D2S12_49_1	21.6855	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_51_1	12.5304	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_52_1	17.0137	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_54_1	39.3949	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D2S12_55_1	18.0187	NA	NA	1302242	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S12_56_1	17.3682	K02759	cellobiose PTS system EIIA component [EC:2.7.1.196 2.7.1.205]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_58_1	15.1000	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_59_1	11.0891	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_60_1	54.6016	NA	NA	765121	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S12_62_1	48.2585	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_64_1	15.5216	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_65_1	22.5253	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_66_1	33.5659	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_67_1	73.4852	K05794	tellurite resistance protein TerC	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_67_2	36.8485	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_68_1	30.2738	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_69_1	36.2124	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_70_1	33.6439	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_71_1	44.8985	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_73_1	45.8214	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_73_2	18.3529	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_74_1	3.6450	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_75_1	38.6921	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_76_1	41.9475	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_76_2	15.8683	K01889	phenylalanyl-tRNA synthetase alpha chain [EC:6.1.1.20]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_79_1	26.6308	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_81_1	25.0602	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_82_1	80.0530	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S12_83_1	45.7059	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_84_1	3.9495	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_84_2	2.0000	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_86_1	23.1012	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S12_87_1	13.5311	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S12_88_1	25.2661	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S12_89_1	33.0659	NA	NA	680646	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia	Rothia mucilaginosa
+c_D2S12_90_1	19.9609	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S12_91_1	10.0758	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA

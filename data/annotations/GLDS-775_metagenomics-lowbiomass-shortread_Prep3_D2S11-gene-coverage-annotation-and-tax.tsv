@@ -1,0 +1,45 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D2S11_1_1	27.5633	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_3_1	15.5168	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_4_1	5.2564	NA	NA	1497974	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Bogoriellaceae	Georgenia	Georgenia sp. SUBG003
+c_D2S11_6_1	19.1146	K03536	ribonuclease P protein component [EC:3.1.26.5]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_7_1	18.1056	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_8_1	26.1415	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_9_1	21.1449	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_10_1	3.3889	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_11_1	9.5252	K23518	O-acetyl-ADP-ribose deacetylase [EC:3.1.1.106]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_13_1	12.4048	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D2S11_16_1	10.0735	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_18_1	10.3213	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_20_1	7.3036	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_23_1	5.1481	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_24_1	4.3566	NA	NA	68247	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces omiyaensis
+c_D2S11_27_1	11.0712	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_28_1	12.3457	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_29_1	10.6531	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_30_1	20.5096	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_30_2	8.2839	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_31_1	11.5370	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_32_1	7.1849	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_35_1	20.6667	NA	NA	1752	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Propionibacterium	Propionibacterium freudenreichii
+c_D2S11_36_1	5.6462	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_38_1	5.9135	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_39_1	21.7134	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_40_1	4.6340	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_43_1	26.3785	K01159	crossover junction endodeoxyribonuclease RuvC [EC:3.1.21.10]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_45_1	8.0083	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_46_1	17.1966	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_46_2	8.4023	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_47_1	1691.0145	K24159	beta-lactamase class A LAP [EC:3.5.2.6]	1	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_48_1	28.8086	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_51_1	9.2660	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_53_1	11.7163	K00800	3-phosphoshikimate 1-carboxyvinyltransferase [EC:2.5.1.19]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_54_1	2.2345	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_55_1	16.6825	NA	NA	470	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii
+c_D2S11_55_2	6.6535	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D2S11_56_1	15.9444	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D2S11_57_1	20.4167	K00782	L-lactate dehydrogenase complex protein LldG	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D2S11_60_1	4.3601	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_62_1	15.9778	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D2S11_68_1	3.3881	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D2S11_69_1	16.9459	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA

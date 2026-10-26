@@ -1,6 +1,6 @@
-data/
-readme.txt
+data\annotations
+data\archive
+data\database
 *.docx
-draft.txt
-
+supplementary.txt
 

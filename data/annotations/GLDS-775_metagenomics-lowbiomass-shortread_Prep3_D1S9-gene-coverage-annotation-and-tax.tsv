@@ -1,0 +1,165 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D1S9_7_1	22.9212	NA	NA	88728	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	Pinus koraiensis
+c_D1S9_13_1	55.8667	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_17_1	28.2650	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_18_1	12.4564	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_19_1	31.2885	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_19_2	16.7101	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_20_1	7.0556	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S9_23_1	26.4370	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_24_1	39.0729	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_24_2	20.0104	NA	NA	1	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_26_1	22.6125	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_27_1	33.2936	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S9_28_1	30.1111	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_30_1	127.3300	NA	NA	2599398	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas azerbaijanica
+c_D1S9_31_1	10.5254	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S9_34_1	26.8858	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_35_1	107.8007	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_39_1	59.5141	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_40_1	41.4228	K02874	large subunit ribosomal protein L14	3318	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	NA	NA
+c_D1S9_40_2	14.1091	NA	NA	88728	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	Pinus koraiensis
+c_D1S9_42_1	2.4129	NA	NA	1858797	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Ruegeria	Ruegeria sp. PBVC088
+c_D1S9_43_1	35.6384	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_45_1	19.3553	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_48_1	20.3929	K01742	thebaine synthase [EC:4.2.99.24]	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_49_1	103.7328	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_50_1	71.2560	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_56_1	8.0676	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S9_58_1	62.5994	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_60_1	69.6360	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S9_60_2	18.0048	NA	NA	4550	Eukaryota	Streptophyta	Magnoliopsida	Poales	Poaceae	Secale	Secale cereale
+c_D1S9_67_1	23.7361	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_69_1	3.4013	K15558	phthalate transport system ATP-binding protein	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_71_1	79.6786	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_71_2	18.1847	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_72_1	81.8333	NA	NA	88730	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	Pinus massoniana
+c_D1S9_74_1	18.7100	K26748	MFS transporter, AAHS family, 2,4-dichlorophenoxyacetate transporter	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_75_1	26.3732	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_78_1	147.4167	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_78_2	86.6039	K07497	putative transposase	672	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus
+c_D1S9_78_3	15.5203	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_81_1	40.2562	NA	NA	106335	Eukaryota	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Hibiscus	Hibiscus syriacus
+c_D1S9_83_1	41.8099	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_84_1	11.6920	NA	NA	6973	Eukaryota	Arthropoda	Insecta	Blattodea	Ectobiidae	Blattella	Blattella germanica
+c_D1S9_85_1	19.5982	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_85_2	7.0280	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_87_1	162.4000	NA	NA	3745	Eukaryota	Streptophyta	Magnoliopsida	Rosales	Rosaceae	NA	NA
+c_D1S9_87_2	106.1085	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_88_1	14.2846	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_90_1	26.0204	K02635	cytochrome b6	35493	Eukaryota	Streptophyta	NA	NA	NA	NA	NA
+c_D1S9_92_1	102.7758	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_94_1	26.9394	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_95_1	93.0660	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_96_1	151.7768	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S9_96_2	21.8154	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S9_98_1	34.2698	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_99_1	42.5355	NA	NA	210225	Eukaryota	Streptophyta	Magnoliopsida	Nymphaeales	Nymphaeaceae	Nymphaea	Nymphaea colorata
+c_D1S9_100_1	73.1940	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_100_2	56.4624	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_100_3	29.4029	K03297	small multidrug resistance pump	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_101_1	37.8466	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_104_1	5.1553	NA	NA	587	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Morganellaceae	Providencia	Providencia rettgeri
+c_D1S9_106_1	6.1575	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_108_1	96.0113	K07497	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_108_2	47.7582	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_111_1	13.9116	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_113_1	32.2826	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_114_1	12.4096	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_117_1	25.3182	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S9_119_1	20.5543	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_121_1	9.6235	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_123_1	6.0648	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_127_1	37.6260	NA	NA	71275	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_131_1	14.8856	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_140_1	24.5407	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_144_1	21.3908	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_145_1	27.8024	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_146_1	6.1682	NA	NA	453842	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus aestuarii
+c_D1S9_148_1	6.9229	NA	NA	58024	Eukaryota	Streptophyta	NA	NA	NA	NA	NA
+c_D1S9_149_1	143.4667	K26492	quillaic acid 3-O-Xyl/L-Rha-1,3-(Gal-1,2)-GlcA-28-O-Xyl-1,4-L-Rha-1,2-Fuc beta-1,3-xylosyltransferase [EC:2.4.2.-]	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_154_1	8.0704	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_155_1	63.1326	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_155_2	23.9792	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_156_1	40.2787	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_157_1	29.6296	K02704	photosystem II CP47 chlorophyll apoprotein	3313	Eukaryota	Streptophyta	Pinopsida	NA	NA	NA	NA
+c_D1S9_158_1	15.7733	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_160_1	31.7302	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_161_1	47.3191	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_162_1	59.2847	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S9_164_1	18.4152	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_166_1	117.4293	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_171_1	25.1581	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_172_1	24.5673	NA	NA	46969	Eukaryota	Streptophyta	Magnoliopsida	Ranunculales	Ranunculaceae	Thalictrum	Thalictrum thalictroides
+c_D1S9_174_1	20.3729	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_174_2	7.8683	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_175_1	30.2152	K07491	REP-associated tyrosine transposase	780	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	NA
+c_D1S9_178_1	24.8733	K07483	transposase	1217647	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii
+c_D1S9_180_1	26.8458	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_183_1	14.7619	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S9_187_1	24.5111	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_189_1	28.2327	K07492	putative transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_191_1	11.9450	NA	NA	573	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+c_D1S9_192_1	9.6920	K07473	DNA-damage-inducible protein J	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_193_1	14.0984	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_194_1	277.4858	K25055	HTLV-1 reverse transcriptase / ribonuclease H [EC:2.7.7.49 2.7.7.7 3.1.26.4]	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_194_2	102.8519	K07497	putative transposase	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_198_1	23.4057	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S9_199_1	65.1520	K07493	putative transposase	337479	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia endosymbiont of Bemisia tabaci
+c_D1S9_200_1	28.7342	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S9_201_1	47.4830	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_201_2	16.2436	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_202_1	51.3303	NA	NA	1133329	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia endosymbiont of Ixodes pacificus
+c_D1S9_202_2	29.5277	K12908	phosphonoformate cytidylyltransferase [EC:2.7.7.93]	1133329	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia endosymbiont of Ixodes pacificus
+c_D1S9_207_1	185.0191	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_214_1	27.3504	NA	NA	69392	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas sp.
+c_D1S9_214_2	8.6589	NA	NA	69392	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas sp.
+c_D1S9_215_1	68.6389	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_217_1	28.5261	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_218_1	30.4644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_219_1	28.4613	K25056	HTLV-1 integrase	1480154	Eukaryota	Streptophyta	Marchantiopsida	Marchantiales	Marchantiaceae	Marchantia	Marchantia polymorpha
+c_D1S9_224_1	43.3229	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S9_225_1	80.0852	NA	NA	3775	Eukaryota	Streptophyta	Magnoliopsida	Oxalidales	Cephalotaceae	Cephalotus	Cephalotus follicularis
+c_D1S9_226_1	43.4848	NA	NA	42862	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia felis
+c_D1S9_229_1	184.9067	NA	NA	2528593	Bacteria	Firmicutes	Clostridia	Thermoanaerobacterales	Zhaonellaceae	Zhaonella	Zhaonella formicivorans
+c_D1S9_230_1	6.8673	K15959	O-methyltransferase [EC:2.1.1.-]	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_236_1	10.5121	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_239_1	207.6889	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_240_1	12.4518	K02709	photosystem II PsbH protein	3337	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	NA
+c_D1S9_241_1	10.3446	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_243_1	52.7541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_246_1	23.5955	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_250_1	33.0760	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S9_253_1	10.0083	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_258_1	10.9605	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_259_1	28.6867	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_261_1	61.8593	NA	NA	2757714	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	NA
+c_D1S9_262_1	29.5397	NA	NA	72274	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+c_D1S9_266_1	12.0719	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_270_1	31.3229	K24803	HIV-1 integrase	2511982	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. GF14B
+c_D1S9_271_1	22.5333	NA	NA	3328	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	NA
+c_D1S9_280_1	14.3787	K07497	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_281_1	13.0179	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S9_283_1	26.5413	NA	NA	3848	Eukaryota	Streptophyta	Magnoliopsida	Fabales	Fabaceae	Glycine	Glycine soja
+c_D1S9_285_1	20.6177	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_286_1	73.1858	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_290_1	53.0733	K07493	putative transposase	315456	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia felis
+c_D1S9_290_2	31.7847	K07493	putative transposase	42862	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	Rickettsia felis
+c_D1S9_291_1	17.5996	NA	NA	780	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	Rickettsiaceae	Rickettsia	NA
+c_D1S9_293_1	5.9372	NA	NA	3337	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	NA
+c_D1S9_294_1	42.9245	K07483	transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_294_2	24.1960	K07497	putative transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S9_295_1	113.8431	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S9_295_2	35.2957	NA	NA	1522	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	[Clostridium] innocuum
+c_D1S9_296_1	17.2527	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_299_1	4.2719	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_300_1	19.1591	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_302_1	80.5042	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_302_2	45.7302	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S9_303_1	11.2641	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_305_1	32.4186	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_307_1	26.9926	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_308_1	11.6327	K12907	aldehyde dehydrogenase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S9_311_1	11.0044	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S9_312_1	21.4000	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S9_313_1	20.2743	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA

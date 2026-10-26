@@ -1,0 +1,33 @@
+Sample_ID	Sample_Type	Location	Collection_Date	Prep_Number	Sample_Category
+D1S1	Environmental	Floor by gowning room	27-May-2025	1,2,3	Environmental
+D1S2	Environmental	Floor by airlock	27-May-2025	1,2,3	Environmental
+D1S3	Environmental	Floor by main door	27-May-2025	1,2,3	Environmental
+D1S4	Environmental	Floor by cabinets	27-May-2025	1,2,3	Environmental
+D1S5	Environmental	Field Control	27-May-2025	1,2,3	Control
+D1S6	Environmental	Floor mid room	27-May-2025	1,2,3	Environmental
+D1S7	Environmental	Field control	27-May-2025	1,2,3	Control
+D1S8	Environmental	Floor by spacecraft	27-May-2025	1,2,3	Environmental
+D1S9	Environmental	Tabletop	27-May-2025	1,2,3	Environmental
+D1S10	Environmental	Floor by emergency exit	27-May-2025	1,2,3	Environmental
+D1S11	Environmental	Processing Control	27-May-2025	1,2,3	Control
+D2S1	Environmental	Floor by gowning room	13-Aug-2025	1,2,3	Environmental
+D2S2	Environmental	Floor by airlock	13-Aug-2025	1,2,3	Environmental
+D2S3	Environmental	Floor by main door	13-Aug-2025	1,2,3	Environmental
+D2S4	Environmental	Floor by cabinets	13-Aug-2025	1,2,3	Environmental
+D2S5	Environmental	Floor mid room	13-Aug-2025	1,2,3	Environmental
+D2S6	Environmental	Floor mid room	13-Aug-2025	1,2,3	Environmental
+D2S7	Environmental	Floor mid room	13-Aug-2025	1,2,3	Environmental
+D2S8	Environmental	Floor by spacecraft	13-Aug-2025	1,2,3	Environmental
+D2S9	Environmental	Tabletop	13-Aug-2025	1,2,3	Environmental
+D2S10	Environmental	Floor by emergency exit	13-Aug-2025	1,2,3	Environmental
+D2S11	Environmental	Field Control	13-Aug-2025	1,2,3	Control
+D2S12	Environmental	Materials Control	13-Aug-2025	1,3	Control
+D2S13	Environmental	Extraction Control	13-Aug-2025	1,2,3	Control
+Buffer_AVE	Control	Elution Buffer - Qiagen	Not Applicable	3	Control
+Lambda_DCS	Control	Lambda control from ONT	Not Applicable	3	Control
+Zymo_LD_MMC	Control	Log distributed Zymo mock community DNA	Not Applicable	3	Control
+PC	Control	Even distributed Zymo mock community DNA	Not Applicable	3	Control
+NTC_5	Control	No Template Control	Not Applicable	3	Control
+NTC_6	Control	No Template Control	Not Applicable	3	Control
+NTC_7	Control	No Template Control	Not Applicable	3	Control
+NTC_8	Control	No Template Control	Not Applicable	3	Control

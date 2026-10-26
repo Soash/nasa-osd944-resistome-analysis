@@ -1,0 +1,52 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D1S5_1_1	8.6162	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_3_1	7.9831	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_4_1	22.8402	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_5_1	16.0629	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S5_6_1	10.6447	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_7_1	7.8862	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_8_1	19.4790	NA	NA	47763	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	Streptomyces lydicus
+c_D1S5_9_1	5.6856	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_10_1	12.8929	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_11_1	5.1242	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_12_1	27.6714	NA	NA	1829	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus rhodochrous
+c_D1S5_13_1	15.0616	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_15_1	7.4028	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_16_1	16.4025	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D1S5_17_1	35.2339	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_18_1	13.9152	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_20_1	9.8118	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_22_1	3.5056	NA	NA	1078464	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas aeruginosa
+c_D1S5_24_1	15.0576	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_27_1	8.1646	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_28_1	30.2741	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_30_1	10.8708	K11045	cAMP factor	1	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_31_1	12.9752	NA	NA	1978231	Bacteria	Acidobacteria	NA	NA	NA	NA	Acidobacteria bacterium
+c_D1S5_33_1	12.0882	K14482	styrene monooxygenase reductase component [EC:1.5.1.-]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_35_1	14.9959	NA	NA	1403939	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces	Actinomyces urogenitalis
+c_D1S5_39_1	15.9390	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_40_1	28.8571	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_41_1	10.0542	NA	NA	91347	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	NA	NA	NA
+c_D1S5_42_1	4.8027	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_45_1	3.5333	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_48_1	11.5000	NA	NA	1226748	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S5_49_1	7.9328	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D1S5_50_1	15.7846	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S5_53_1	14.4962	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_55_1	20.3155	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_56_1	30.1812	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_57_1	10.2410	K27193	carbendazim hydrolysing esterase [EC:3.1.1.122]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_62_1	35.2358	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_66_1	2.4655	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_67_1	12.4794	K02784	phosphocarrier protein HPr	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_68_1	18.5412	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_68_2	8.6432	K00997	holo-[acyl-carrier protein] synthase [EC:2.7.8.7]	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D1S5_69_1	9.3755	NA	NA	4979	Eukaryota	Basidiomycota	Tremellomycetes	Tremellales	Bulleribasidiaceae	Hannaella	Hannaella oryzae
+c_D1S5_71_1	20.0518	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_72_1	21.9431	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_74_1	1.2372	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S5_75_1	35.5895	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_76_1	6.4409	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S5_77_1	12.7619	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_78_1	4.0171	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S5_80_1	2.9945	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA

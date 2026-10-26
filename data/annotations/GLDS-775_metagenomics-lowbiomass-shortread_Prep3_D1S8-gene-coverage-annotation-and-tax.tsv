@@ -1,0 +1,526 @@
+gene_ID	coverage	KO_ID	KO_function	taxid	domain	phylum	class	order	family	genus	species
+c_D1S8_1_1	5.5931	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_2_1	28.4708	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_5_1	8.8640	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_6_1	110.2431	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_7_1	5.0893	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_7_2	2.5260	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_9_1	15.6695	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_10_1	17.0000	NA	NA	1185650	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacteroides abscessus
+c_D1S8_13_1	16.7284	NA	NA	3398	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_14_1	10.3050	NA	NA	106335	Eukaryota	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Hibiscus	Hibiscus syriacus
+c_D1S8_16_1	9.6416	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_17_1	4.5762	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_18_1	11.7222	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_19_1	16.5020	K07492	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_20_1	16.8906	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_24_1	10.5498	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_28_1	14.1290	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_29_1	4.9259	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_31_1	12.6847	NA	NA	57609	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_34_1	8.9805	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_36_1	8.0692	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_39_1	7.7308	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_42_1	27.4922	NA	NA	1522	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelatoclostridium	[Clostridium] innocuum
+c_D1S8_43_1	17.2207	NA	NA	2781021	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Lysobacter	Lysobacter sp. H21R4
+c_D1S8_44_1	14.6809	K07480	insertion element IS1 protein InsB	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_45_1	6.2424	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_47_1	8.1473	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_47_2	5.0526	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_49_1	63.4309	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_52_1	17.5875	K03321	sulfate permease, SulP family	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_53_1	27.9501	K25056	HTLV-1 integrase	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_54_1	4.9664	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_57_1	70.0033	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S8_58_1	4.2414	NA	NA	72274	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+c_D1S8_60_1	9.2676	NA	NA	28211	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+c_D1S8_61_1	10.3374	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_63_1	13.4472	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_64_1	13.2438	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_65_1	32.4386	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_69_1	16.1941	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_70_1	4.6602	NA	NA	13715	Eukaryota	Streptophyta	Magnoliopsida	Trochodendrales	Trochodendraceae	Tetracentron	Tetracentron sinense
+c_D1S8_72_1	15.9057	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_73_1	9.6061	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_79_1	7.5145	NA	NA	32033	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_83_1	24.8610	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_84_1	19.4704	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_85_1	20.5051	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_85_2	12.0556	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_87_1	5.2635	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_88_1	24.1833	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_89_1	42.4823	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_89_2	23.5586	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_89_3	15.9643	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_90_1	19.3333	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_91_1	17.9630	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_92_1	16.9430	NA	NA	2170575	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pelagivirga	Pelagivirga sediminicola
+c_D1S8_93_1	5.6964	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_94_1	62.1871	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_97_1	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_98_1	4.1381	NA	NA	2004646	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. WCHA55
+c_D1S8_108_1	0	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_109_1	8.6709	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_110_1	4.8406	NA	NA	1313	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus pneumoniae
+c_D1S8_112_1	41.9895	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_115_1	6.8563	K06901	adenine/guanine/hypoxanthine permease	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_117_1	5.5115	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_118_1	9.3398	NA	NA	40324	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia
+c_D1S8_119_1	2.1111	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_120_1	7.8395	NA	NA	2032574	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	Xanthomonadaceae bacterium NML07-0707
+c_D1S8_122_1	19.5818	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_124_1	13.0993	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_125_1	28.5772	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_126_1	27.5280	K02886	large subunit ribosomal protein L2	1446379	Eukaryota	Streptophyta	Pinopsida	Cupressales	NA	NA	NA
+c_D1S8_127_1	4.2786	K06201	copper homeostasis protein	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_129_1	65.4775	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_129_2	33.7074	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_129_3	17.6069	K07483	transposase	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_129_4	11.5006	K07497	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_132_1	9.8654	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_132_2	3.6234	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_133_1	21.6056	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_133_2	5.0714	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_135_1	5.5469	NA	NA	1437444	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Comamonadaceae	Hydrogenophaga	Hydrogenophaga sp. T4
+c_D1S8_136_1	3.5000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_137_1	101.3930	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_137_2	72.1471	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_137_3	47.5894	K07497	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_137_4	16.3710	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_138_1	23.3098	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_140_1	17.6941	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_142_1	5.7483	NA	NA	28141	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Cronobacter	Cronobacter sakazakii
+c_D1S8_144_1	82.1360	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_144_2	67.4757	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_144_3	55.6310	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_144_4	48.2430	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_144_5	39.5629	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_144_6	25.7420	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_144_7	16.7644	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_150_1	13.0081	NA	NA	1977873	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. ANC 3813
+c_D1S8_151_1	14.6905	NA	NA	196896	Viruses	Uroviricota	Caudoviricetes	Caudovirales	Myoviridae	NA	NA
+c_D1S8_153_1	8.1972	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_154_1	12.0888	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_155_1	53.5848	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_157_1	43.7447	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_157_2	36.6431	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_157_3	29.1179	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_157_4	16.5986	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_157_5	12.8512	K07492	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_158_1	19.7007	K21674	caffeine dehydrogenase subunit beta [EC:1.17.5.2]	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_160_1	64.7852	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_162_1	17.6513	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_163_1	32.2967	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S8_165_1	18.6269	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_166_1	20.1256	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_167_1	12.1007	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_171_1	17.5965	NA	NA	196816	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_171_2	3.2283	NA	NA	1977884	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. ANC 4204
+c_D1S8_174_1	11.3732	K01000	phospho-N-acetylmuramoyl-pentapeptide-transferase [EC:2.7.8.13]	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_176_1	11.3274	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_176_2	2.5436	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_178_1	29.8211	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_180_1	5.5635	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_181_1	8.4553	K00878	hydroxyethylthiazole kinase [EC:2.7.1.50]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_187_1	17.7004	K07495	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_188_1	22.4329	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_189_1	9.5891	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_190_1	8.8637	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_191_1	12.6481	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_191_2	3.3772	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_193_1	17.4319	NA	NA	97028	Eukaryota	Streptophyta	Magnoliopsida	Fabales	Fabaceae	Trifolium	Trifolium medium
+c_D1S8_195_1	111.9514	NA	NA	672	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus
+c_D1S8_198_1	23.6909	NA	NA	46969	Eukaryota	Streptophyta	Magnoliopsida	Ranunculales	Ranunculaceae	Thalictrum	Thalictrum thalictroides
+c_D1S8_199_1	28.0887	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_199_2	16.2344	K19092	toxin ParE1/3/4	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_201_1	44.3421	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_201_2	11.9217	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_203_1	25.1111	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_206_1	13.7874	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_210_1	4.0576	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_217_1	13.0000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_218_1	0	NA	NA	672	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus
+c_D1S8_220_1	23.5810	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_221_1	7.3333	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_223_1	20.3308	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_225_1	15.6000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_226_1	2.8862	NA	NA	36809	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacteroides abscessus
+c_D1S8_227_1	25.5620	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_228_1	12.3061	NA	NA	1762	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	NA	NA
+c_D1S8_232_1	54.7700	NA	NA	180675	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Lamiaceae	Salvia	Salvia splendens
+c_D1S8_234_1	11.0452	NA	NA	314256	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Oceanicola	Oceanicola granulosus
+c_D1S8_236_1	5.5920	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_239_1	3.7293	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_240_1	14.0174	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_241_1	17.8271	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_242_1	25.3645	NA	NA	2544872	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Acetomicrobium	Anaerobaculum sp. S15
+c_D1S8_243_1	12.8706	NA	NA	2026780	Bacteria	Planctomycetes	NA	NA	NA	NA	Planctomycetes bacterium
+c_D1S8_244_1	6.2288	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_245_1	60.0817	NA	NA	9615	Eukaryota	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis lupus
+c_D1S8_248_1	17.1825	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_249_1	3.1217	K07780	AraC family transcriptional regulator, transcriptional regulator required for anaerobic and stationary phase induction of genes	1871111	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter defluvii
+c_D1S8_250_1	21.5000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_251_1	24.4720	NA	NA	1217710	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. NIPH 899
+c_D1S8_252_1	5.2051	NA	NA	9615	Eukaryota	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis lupus
+c_D1S8_257_1	19.5730	NA	NA	3469	Eukaryota	Streptophyta	Magnoliopsida	Ranunculales	Papaveraceae	Papaver	Papaver somniferum
+c_D1S8_258_1	20.5484	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_261_1	6.7748	NA	NA	1217675	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter schindleri
+c_D1S8_262_1	14.4072	K00492	1,3,7-trimethyluric acid 5-monooxygenase [EC:1.14.13.212]	196816	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_264_1	20.4679	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_265_1	12.2667	K02963	small subunit ribosomal protein S18	3318	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	NA	NA
+c_D1S8_268_1	9.3207	NA	NA	3193	Eukaryota	Streptophyta	NA	NA	NA	NA	NA
+c_D1S8_270_1	27.8450	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_271_1	6.9288	NA	NA	909768	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_274_1	15.4595	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_276_1	145.2761	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_276_2	69.5875	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_277_1	19.8937	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_277_2	13.1140	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_279_1	32.0176	NA	NA	165716	Eukaryota	Streptophyta	Magnoliopsida	Ericales	Actinidiaceae	Actinidia	Actinidia rufa
+c_D1S8_280_1	26.7613	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S8_281_1	12.4242	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S8_282_1	11.8524	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_282_2	2.4103	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_289_1	6.5267	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_290_1	10.8848	NA	NA	294	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fluorescens
+c_D1S8_291_1	11.4603	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_293_1	11.9722	K15558	phthalate transport system ATP-binding protein	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_295_1	48.3875	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S8_296_1	2.4788	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_298_1	5.5011	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_302_1	4.3478	NA	NA	93504	Eukaryota	Arthropoda	Insecta	Lepidoptera	Crambidae	Ostrinia	Ostrinia furnacalis
+c_D1S8_303_1	261.9785	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S8_303_2	181.8413	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S8_303_3	50.2681	NA	NA	3476	Eukaryota	Streptophyta	Magnoliopsida	Rosales	Cannabaceae	Parasponia	Parasponia andersonii
+c_D1S8_309_1	23.4741	NA	NA	33090	Eukaryota	NA	NA	NA	NA	NA	NA
+c_D1S8_309_2	17.9315	NA	NA	2511984	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. 2DZ2F2B
+c_D1S8_310_1	21.0083	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_311_1	52.1677	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_311_2	34.5631	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_311_3	22.0074	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_312_1	28.2205	K25055	HTLV-1 reverse transcriptase / ribonuclease H [EC:2.7.7.49 2.7.7.7 3.1.26.4]	3352	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	Pinus taeda
+c_D1S8_313_1	4.4128	K07320	ribosomal protein L3 glutamine methyltransferase [EC:2.1.1.298]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_315_1	15.2139	NA	NA	128403	Bacteria	Cyanobacteria	NA	Nostocales	Scytonemataceae	Scytonema	Scytonema hofmannii
+c_D1S8_316_1	12.2245	K02876	large subunit ribosomal protein L15	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_318_1	41.0610	NA	NA	88728	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Pinus	Pinus koraiensis
+c_D1S8_320_1	49.7572	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_323_1	32.9769	NA	NA	672	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio	Vibrio vulnificus
+c_D1S8_324_1	27.7137	K07473	DNA-damage-inducible protein J	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D1S8_324_2	18.7742	K19157	mRNA interferase YafQ [EC:3.1.-.-]	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S8_325_1	11.9157	K03673	protein dithiol oxidoreductase (disulfide-forming) [EC:1.8.4.15]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_329_1	7.6557	K09800	translocation and assembly module TamB	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_333_1	14.4242	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_335_1	15.1636	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S8_336_1	38.4393	K03892	ArsR family transcriptional regulator, arsenate/arsenite/antimonite-responsive transcriptional repressor	72274	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+c_D1S8_339_1	31.6830	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_339_2	18.4435	K07484	transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_341_1	4.0379	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_342_1	11.0498	K00339	NADH-quinone oxidoreductase subunit J [EC:7.1.1.2]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_343_1	8.9246	K13522	bifunctional NMN adenylyltransferase/nudix hydrolase [EC:2.7.7.1 3.6.1.-]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_344_1	36.5077	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_346_1	24.0287	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_349_1	7.8733	K00374	nitrate reductase gamma subunit [EC:1.7.5.1 1.7.99.-]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_350_1	35.6685	NA	NA	1437201	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_351_1	7.7885	NA	NA	429701	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Bignoniaceae	Handroanthus	Handroanthus impetiginosus
+c_D1S8_352_1	1.5789	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_353_1	18.3629	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_353_2	4.5968	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_355_1	9.0833	NA	NA	520	Bacteria	Proteobacteria	Betaproteobacteria	Burkholderiales	Alcaligenaceae	Bordetella	Bordetella pertussis
+c_D1S8_356_1	5.7850	K21836	D-lactate dehydrogenase (acceptor) [EC:1.1.99.6]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_356_2	2.7246	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_357_1	9.2209	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_363_1	96.3261	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_365_1	34.4384	K07334	toxin HigB-1	1	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_367_1	5.6862	K23517	cyclopentanone monooxygenase [EC:1.14.13.16]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_369_1	6.5104	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_371_1	15.6477	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_372_1	41.9580	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_373_1	6.2137	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_374_1	9.6021	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_375_1	5.7162	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_376_1	17.3212	K15558	phthalate transport system ATP-binding protein	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_379_1	12.6323	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_380_1	41.5136	K07497	putative transposase	2511982	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. GF14B
+c_D1S8_381_1	50.0976	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_381_2	6.8932	NA	NA	999892	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	[Propionibacterium] humerusii
+c_D1S8_382_1	32.9922	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_386_1	12.4699	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_387_1	3.0000	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_389_1	9.3688	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_391_1	6.8920	NA	NA	1977873	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. ANC 3813
+c_D1S8_394_1	99.8725	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_395_1	5.7967	K01887	arginyl-tRNA synthetase [EC:6.1.1.19]	57609	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_396_1	5.3296	K07497	putative transposase	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_396_2	2.8827	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_397_1	1.3711	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_401_1	9.7857	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_402_1	18.9440	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_405_1	8.1503	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_406_1	11.8052	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_406_2	3.2787	NA	NA	31957	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	NA	NA
+c_D1S8_407_1	15.3059	NA	NA	32033	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_410_1	4.9937	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_412_1	34.4907	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_413_1	44.1159	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_415_1	8.5000	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_418_1	7.1232	NA	NA	106648	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter bereziniae
+c_D1S8_420_1	24.6201	K07482	transposase, IS30 family	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_421_1	7.9838	K02348	ElaA protein	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_423_1	18.1667	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_423_2	11.1463	NA	NA	1812935	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter roggenkampii
+c_D1S8_427_1	17.9193	NA	NA	7266	Eukaryota	Arthropoda	Insecta	Diptera	Drosophilidae	Drosophila	Drosophila guanche
+c_D1S8_429_1	17.3632	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_429_2	5.6622	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_430_1	97.9224	NA	NA	3469	Eukaryota	Streptophyta	Magnoliopsida	Ranunculales	Papaveraceae	Papaver	Papaver somniferum
+c_D1S8_431_1	22.0905	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_432_1	32.8149	K05794	tellurite resistance protein TerC	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_434_1	188.0828	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S8_435_1	30.7671	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_438_1	32.1510	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_439_1	8.6973	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_442_1	20.6797	K18829	antitoxin VapB	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_443_1	12.2358	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_445_1	29.7925	K19313	aminocyclitol acetyltransferase [EC:2.3.-.-]	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_445_2	9.0111	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_447_1	67.2931	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_448_1	10.4222	NA	NA	32033	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_448_2	4.5768	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_451_1	12.0351	NA	NA	71275	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_455_1	3.2068	K15769	p-toluenesulfonate methyl-monooxygenase reductase component TsaB [EC:1.5.1.-]	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_456_1	5.2157	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_457_1	37.4186	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_457_2	3.6567	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_459_1	17.3429	K19653	geraniol dehydrogenase (NAD+) [EC:1.1.1.347]	1871111	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter defluvii
+c_D1S8_460_1	2.5768	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S8_460_2	0	NA	NA	3330	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	Picea	Picea glauca
+c_D1S8_462_1	17.3163	NA	NA	69392	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas sp.
+c_D1S8_463_1	7.5806	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_465_1	2.8634	NA	NA	108981	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter schindleri
+c_D1S8_467_1	16.7248	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_468_1	11.9889	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_469_1	4.0115	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_470_1	0	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_472_1	6.2328	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_473_1	6.1978	NA	NA	33889	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium	Brevibacterium casei
+c_D1S8_475_1	10.0246	K18825	dihydropteroate synthase type 3 [EC:2.5.1.15]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_478_1	19.6481	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_479_1	4.0278	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_480_1	27.6935	NA	NA	520141	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium	Mycobacterium tuberculosis
+c_D1S8_481_1	5.1263	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_482_1	4.2667	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_483_1	3.3542	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_484_1	21.8285	K07495	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_489_1	23.4912	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_492_1	11.3037	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_494_1	30.2629	NA	NA	2599398	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas azerbaijanica
+c_D1S8_495_1	5.6629	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_497_1	10.1065	K16410	stigmatellin polyketide synthase StiF	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_498_1	3.8768	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_501_1	13.2500	NA	NA	1866931	Bacteria	NA	NA	NA	NA	NA	bacterium ADurb.Bin431
+c_D1S8_502_1	7.2636	NA	NA	196816	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_504_1	4.2051	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_505_1	9.4156	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S8_507_1	13.3302	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_508_1	1.1389	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_509_1	2.6119	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_511_1	19.2103	NA	NA	2004646	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. WCHA55
+c_D1S8_512_1	9.3804	NA	NA	136037	Eukaryota	Arthropoda	Insecta	Blattodea	Termopsidae	Zootermopsis	Zootermopsis nevadensis
+c_D1S8_513_1	6.9024	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_518_1	50.5681	K07497	putative transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_518_2	24.0126	K07483	transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_518_3	19.6382	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_519_1	5.8815	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_522_1	121.3399	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_522_2	46.8333	K07497	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_522_3	19.0000	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_527_1	13.8121	K07483	transposase	40324	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas maltophilia
+c_D1S8_529_1	24.0524	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_531_1	28.3404	NA	NA	106335	Eukaryota	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Hibiscus	Hibiscus syriacus
+c_D1S8_538_1	51.8405	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_538_2	31.5449	NA	NA	196816	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_539_1	0	NA	NA	28090	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_541_1	30.2129	K07495	putative transposase	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_542_1	18.8708	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_544_1	7.1481	K12907	aldehyde dehydrogenase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_545_1	5.4465	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_549_1	7.3015	NA	NA	405446	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas terrae
+c_D1S8_550_1	6.8958	K18825	dihydropteroate synthase type 3 [EC:2.5.1.15]	2528244	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus subflavus
+c_D1S8_551_1	16.9512	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_551_2	5.7909	NA	NA	1660154	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus sp. SCN 68-21
+c_D1S8_552_1	7.5638	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_553_1	3.5811	K15769	p-toluenesulfonate methyl-monooxygenase reductase component TsaB [EC:1.5.1.-]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_556_1	12.7388	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_557_1	19.4233	K23132	O157-antigen biosynthesis glycosyltransferase	296719	Eukaryota	Streptophyta	Magnoliopsida	Poales	Bromeliaceae	Ananas	Ananas comosus
+c_D1S8_560_1	15.7222	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_563_1	13.0000	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_564_1	4.3383	NA	NA	28211	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+c_D1S8_565_1	8.7068	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_567_1	66.3460	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_568_1	7.9893	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_569_1	40.1549	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_569_2	28.3818	K07734	transcriptional regulator	562	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia coli
+c_D1S8_569_3	18.6603	K09803	uncharacterized protein	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_569_4	14.6381	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_570_1	85.4118	NA	NA	118510	Eukaryota	Streptophyta	Magnoliopsida	Asterales	Asteraceae	Tanacetum	Tanacetum cinerariifolium
+c_D1S8_575_1	28.9512	NA	NA	36809	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacteroides	Mycobacteroides abscessus
+c_D1S8_576_1	2.3636	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_581_1	51.2006	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_581_2	37.5321	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_581_3	33.8156	K19157	mRNA interferase YafQ [EC:3.1.-.-]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_581_4	31.3333	K07473	DNA-damage-inducible protein J	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_581_5	19.7028	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_583_1	9.9116	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_586_1	13.0073	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_588_1	31.4692	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_589_1	6.3039	NA	NA	1852861	Bacteria	Chloroflexi	NA	NA	NA	NA	Chloroflexi bacterium ADurb.Bin360
+c_D1S8_590_1	19.3714	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_591_1	21.4631	NA	NA	346	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Xanthomonas	Xanthomonas citri
+c_D1S8_593_1	15.8815	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_594_1	8.8485	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_595_1	18.8725	K07497	putative transposase	1	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_597_1	31.6724	K07480	insertion element IS1 protein InsB	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_597_2	18.2933	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_597_3	14.9147	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_597_4	11.8485	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_597_5	7.0929	K13235	UDP-glucose glucosyltransferase [EC:2.4.1.-]	2576829	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter pullicarnis
+c_D1S8_600_1	6.3158	NA	NA	57577	Eukaryota	Streptophyta	Magnoliopsida	Fabales	Fabaceae	Trifolium	Trifolium pratense
+c_D1S8_602_1	18.8213	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_606_1	20.9857	NA	NA	470	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii
+c_D1S8_607_1	15.6768	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_608_1	20.3683	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_611_1	47.3285	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_612_1	7.7273	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_613_1	28.5627	NA	NA	1703930	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Kitasatospora	Kitasatospora sp. CB01950
+c_D1S8_614_1	19.4151	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_614_2	5.5133	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_615_1	9.2101	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_617_1	13.9895	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_618_1	11.7444	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_618_2	2.3993	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_621_1	12.2553	K25055	HTLV-1 reverse transcriptase / ribonuclease H [EC:2.7.7.49 2.7.7.7 3.1.26.4]	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_622_1	74.6343	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_626_1	43.5197	NA	NA	72274	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	NA	NA	NA
+c_D1S8_628_1	17.1084	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_630_1	14.5522	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_631_1	8.6204	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_633_1	3.1883	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_634_1	14.4754	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_635_1	10.5641	NA	NA	1747	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	Cutibacterium acnes
+c_D1S8_638_1	19.1933	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_642_1	30.1939	NA	NA	198431	NA	NA	NA	NA	NA	NA	uncultured prokaryote
+c_D1S8_642_2	14.4256	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_643_1	24.6000	NA	NA	3396	Eukaryota	Streptophyta	Cycadopsida	Cycadales	Cycadaceae	Cycas	Cycas revoluta
+c_D1S8_644_1	9.9096	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_651_1	23.7662	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_655_1	4.3843	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_656_1	13.1024	NA	NA	989422	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pseudovibrio	Pseudovibrio sp. Ad37
+c_D1S8_659_1	22.6667	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_660_1	86.6956	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_660_2	69.6787	K12971	interferon-activable protein 202	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_660_3	42.0767	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_660_4	28.8713	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_660_5	23.3656	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_660_6	16.8725	K03297	small multidrug resistance pump	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_661_1	20.1093	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_662_1	7.9021	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_663_1	3.3618	K26570	colibactin biosynthesis thioesterase	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_667_1	6.1350	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_670_1	7.4192	NA	NA	2528244	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	Paracoccus subflavus
+c_D1S8_671_1	6.6401	NA	NA	483179	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Brucellaceae	Brucella	Brucella canis
+c_D1S8_673_1	19.8949	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_674_1	18.7505	K24803	HIV-1 integrase	1883	Bacteria	Actinobacteria	Actinobacteria	Streptomycetales	Streptomycetaceae	Streptomyces	NA
+c_D1S8_676_1	13.7600	NA	NA	1183425	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Agrobacterium	Agrobacterium deltaense
+c_D1S8_677_1	3.7000	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_678_1	10.3299	K03748	SanA protein	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_680_1	18.5393	NA	NA	93759	Eukaryota	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Corchorus	Corchorus olitorius
+c_D1S8_681_1	30.6269	NA	NA	2599398	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas	Halomonas azerbaijanica
+c_D1S8_682_1	63.6830	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_682_2	41.8921	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_682_3	22.9778	K07492	putative transposase	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_685_1	10.0659	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_686_1	9.0135	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_689_1	20.9400	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_691_1	34.0772	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S8_691_2	17.3333	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_692_1	16.1126	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_693_1	20.4721	K01507	inorganic pyrophosphatase [EC:3.6.1.1]	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_696_1	35.2222	NA	NA	2170575	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Pelagivirga	Pelagivirga sediminicola
+c_D1S8_696_2	22.3378	K14178	amorpha-4,11-diene synthase [EC:4.2.3.24]	4550	Eukaryota	Streptophyta	Magnoliopsida	Poales	Poaceae	Secale	Secale cereale
+c_D1S8_697_1	26.5164	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_699_1	3.0157	K00943	dTMP kinase [EC:2.7.4.9]	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_700_1	5.3638	K20930	phosphinomethylmalate isomerase [EC:4.2.1.166]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_707_1	13.1970	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_714_1	19.8168	NA	NA	69392	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas sp.
+c_D1S8_717_1	7.4486	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_720_1	47.0564	NA	NA	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_720_2	33.4362	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_720_3	20.2330	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_720_4	11.0488	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_720_5	8.7619	K06218	mRNA interferase RelE/StbE	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_721_1	84.1489	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_722_1	25.2417	K02948	small subunit ribosomal protein S11	3318	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	NA	NA
+c_D1S8_723_1	11.7214	NA	NA	1912216	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium	NA
+c_D1S8_724_1	31.6607	NA	NA	1904441	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	NA	Rhodobacteraceae bacterium
+c_D1S8_725_1	13.5075	K25056	HTLV-1 integrase	69392	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas	Stenotrophomonas sp.
+c_D1S8_727_1	7.0659	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_729_1	3.5408	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_731_1	105.0637	NA	NA	1280	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus	Staphylococcus aureus
+c_D1S8_733_1	3.4483	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_734_1	12.8506	NA	NA	93759	Eukaryota	Streptophyta	Magnoliopsida	Malvales	Malvaceae	Corchorus	Corchorus olitorius
+c_D1S8_737_1	20.4345	K07480	insertion element IS1 protein InsB	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_738_1	11.0000	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_740_1	16.5114	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_740_2	4.4877	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_741_1	6.5667	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_743_1	15.9303	NA	NA	3755	Eukaryota	Streptophyta	Magnoliopsida	Rosales	Rosaceae	Prunus	Prunus dulcis
+c_D1S8_744_1	4.9749	NA	NA	1783272	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_747_1	5.9233	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_750_1	9.4178	K20548	3,6-anhydro-alpha-L-galactose dehydrogenase [EC:1.2.1.92]	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_752_1	7.2610	K07493	putative transposase	1236	Bacteria	Proteobacteria	Gammaproteobacteria	NA	NA	NA	NA
+c_D1S8_753_1	46.5355	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_754_1	10.2569	NA	NA	106648	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter bereziniae
+c_D1S8_755_1	16.7689	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_756_1	21.9603	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_756_2	4.7062	NA	NA	1507807	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter idrijaensis
+c_D1S8_757_1	3.0678	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_760_1	4.3920	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_761_1	14.1497	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_764_1	55.3244	NA	NA	198431	NA	NA	NA	NA	NA	NA	uncultured prokaryote
+c_D1S8_769_1	26.7093	NA	NA	3775	Eukaryota	Streptophyta	Magnoliopsida	Oxalidales	Cephalotaceae	Cephalotus	Cephalotus follicularis
+c_D1S8_770_1	7.0584	K11811	arsenical resistance protein ArsH	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_771_1	4.1783	K07341	death on curing protein	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_771_2	2.0000	NA	NA	2587144	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter sp. BIGb0196
+c_D1S8_773_1	10.5767	K09937	uncharacterized protein	57609	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	NA	NA
+c_D1S8_776_1	63.3810	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_776_2	45.0966	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_776_3	25.5676	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_777_1	42.8310	NA	NA	1437183	Eukaryota	Streptophyta	Magnoliopsida	NA	NA	NA	NA
+c_D1S8_778_1	23.6970	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_779_1	9.0693	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_780_1	12.0850	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_781_1	29.6882	K02965	small subunit ribosomal protein S19	3318	Eukaryota	Streptophyta	Pinopsida	Pinales	Pinaceae	NA	NA
+c_D1S8_782_1	24.4378	NA	NA	2511982	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Enterobacter	Enterobacter cloacae complex sp. GF14B
+c_D1S8_784_1	12.6667	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_785_1	21.8095	NA	NA	575588	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii
+c_D1S8_785_2	8.3163	K18320	transposase, IS6 family	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_786_1	13.8021	K18843	antitoxin HicB	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_787_1	10.3462	NA	NA	131567	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_788_1	14.2201	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_789_1	7.0594	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_792_1	10.2377	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
+c_D1S8_793_1	10.9725	NA	NA	469	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	NA
+c_D1S8_794_1	40.7333	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_797_1	4.8889	NA	NA	265	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus	NA
+c_D1S8_798_1	19.2157	NA	NA	158383	Eukaryota	Streptophyta	Magnoliopsida	Lamiales	Oleaceae	Olea	Olea europaea
+c_D1S8_800_1	21.5412	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_802_1	3.5450	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_803_1	9.7911	NA	NA	1760	Bacteria	Actinobacteria	Actinobacteria	NA	NA	NA	NA
+c_D1S8_806_1	9.0511	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_808_1	17.6541	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_809_1	29.3111	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_810_1	11.2766	NA	NA	28211	Bacteria	Proteobacteria	Alphaproteobacteria	NA	NA	NA	NA
+c_D1S8_811_1	37.5181	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_812_1	9.8540	NA	NA	2	Bacteria	NA	NA	NA	NA	NA	NA
+c_D1S8_814_1	14.0500	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_816_1	43.8852	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+c_D1S8_818_1	13.3144	NA	NA	1224	Bacteria	Proteobacteria	NA	NA	NA	NA	NA
