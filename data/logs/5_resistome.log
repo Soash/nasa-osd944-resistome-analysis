@@ -1,0 +1,31 @@
+2026-04-24 15:39:31,368 - INFO - Fetching official ARG database from KEGG (ko01504)...
+2026-04-24 15:39:31,369 - INFO - Successfully loaded 237 official Antibiotic Resistance KOs.
+2026-04-24 15:39:31,369 - INFO - Fetching official BRG database from BacMet...
+2026-04-24 15:39:31,379 - INFO - Successfully loaded 758 official Biocide/Metal Resistance Genes.
+2026-04-24 15:39:31,379 - INFO - Loading master matrix from data/master_functional_matrix.tsv...
+2026-04-24 15:39:31,600 - INFO - Cross-referencing genes against KEGG and BacMet databases...
+2026-04-24 15:39:31,987 - INFO - Filtered out mock communities. Final Environmental AMR gene hits: 447
+
+2026-04-24 15:39:31,998 - INFO - ------------------------------------------------------------
+2026-04-24 15:39:31,998 - INFO -                  [ DUAL RESISTANCE ANALYSIS SUMMARY ]                
+2026-04-24 15:39:31,998 - INFO - ------------------------------------------------------------
+2026-04-24 15:39:31,998 - INFO -     Total Dual Resistance Gene Hits : 64
+2026-04-24 15:39:31,999 - INFO -     Dual-Resistant Genera Found     : 4 unique genera
+2026-04-24 15:39:32,000 - INFO -     Unique DUAL Resistance Mechs    : 5 distinct functions
+2026-04-24 15:39:32,000 - INFO -     * Detailed dual resistance lists saved to TSV.
+2026-04-24 15:39:32,000 - INFO - ------------------------------------------------------------
+
+2026-04-24 15:39:32,011 - INFO - Successfully exported Total AMR TSV to: data/total_amr_genes.tsv
+2026-04-24 15:39:32,018 - INFO - Successfully exported Dual Resistance TSV to: data/total_dual_resistance_genes.tsv
+2026-04-24 15:39:32,028 - INFO - Successfully exported the full summary tables as TSV files.
+2026-04-24 15:39:32,028 - INFO - ============================================================
+2026-04-24 15:39:32,029 - INFO -            AMR ANALYSIS SUMMARY           
+2026-04-24 15:39:32,029 - INFO - ============================================================
+2026-04-24 15:39:32,029 - INFO -     Total Environmental AMR Hits   : 447
+2026-04-24 15:39:32,029 - INFO -     AMR-Carrying Bacterial Genera  : 13 unique genera
+2026-04-24 15:39:32,029 - INFO -     Unique AMR Mechanisms          : 35 distinct functions
+2026-04-24 15:39:32,029 - INFO -     * Detailed breakdowns (Location, Genera, Acinetobacter) saved to TSV.
+2026-04-24 15:39:32,029 - INFO - ============================================================
+
+2026-04-24 15:39:32,029 - INFO - Generating and saving analytical plots to data/figures...
+2026-04-24 15:39:34,016 - INFO - Pipeline complete. All logs saved to /home/soash/research/cleanroom/spacecraft-resistome-dynamics/data/logs/5_resistome.log

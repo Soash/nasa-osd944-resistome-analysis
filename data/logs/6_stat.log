@@ -1,0 +1,26 @@
+2026-04-24 15:20:03,000 - INFO - Loading environmental AMR matrix from data/env_amr_df.tsv...
+2026-04-24 15:20:03,007 - INFO - Calculating total AMR burden per sample...
+2026-04-24 15:20:03,020 - INFO - --------------------------------------------------
+2026-04-24 15:20:03,020 - INFO -     [ KRUSKAL-WALLIS H-TEST RESULTS ]
+2026-04-24 15:20:03,021 - INFO - --------------------------------------------------
+2026-04-24 15:20:03,021 - INFO -     H-statistic : 8.5686
+2026-04-24 15:20:03,021 - INFO -     P-value     : 2.8513e-01
+2026-04-24 15:20:03,021 - INFO -     Conclusion  : The difference is NOT statistically significant (p >= 0.05).
+2026-04-24 15:20:03,021 - INFO - --------------------------------------------------
+2026-04-24 15:20:03,021 - INFO - Calculating Alpha Diversity (Shannon Index)...
+2026-04-24 15:20:03,990 - INFO - Alpha Diversity plot saved to data/figures/alpha_diversity.png
+2026-04-24 15:20:03,990 - INFO - Calculating Bray-Curtis distance matrix for Beta Diversity...
+2026-04-24 15:20:03,992 - INFO - Running Principal Coordinate Analysis (PCoA)...
+2026-04-24 15:20:05,082 - INFO - Beta Diversity (PCoA) plot saved to data/figures/beta_diversity_true_pcoa.png
+2026-04-24 15:20:05,082 - INFO - Running PERMANOVA (999 permutations) to test Beta Diversity significance...
+2026-04-24 15:20:05,597 - INFO - --------------------------------------------------
+2026-04-24 15:20:05,597 - INFO -     [ PERMANOVA RESULTS ]
+2026-04-24 15:20:05,598 - INFO - --------------------------------------------------
+2026-04-24 15:20:05,598 - INFO -     Method      : PERMANOVA
+2026-04-24 15:20:05,598 - INFO -     Sample size : 17
+2026-04-24 15:20:05,598 - INFO -     Test stat   : 1.1230
+2026-04-24 15:20:05,598 - INFO -     P-value     : 0.3210
+2026-04-24 15:20:05,598 - INFO -     Conclusion  : No significant difference in composition across locations.
+2026-04-24 15:20:05,599 - INFO - --------------------------------------------------
+
+2026-04-24 15:20:05,599 - INFO - Statistical pipeline complete. Logs saved to /home/soash/research/cleanroom/spacecraft-resistome-dynamics/data/logs/6_stat.log

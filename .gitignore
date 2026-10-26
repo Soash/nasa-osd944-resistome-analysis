@@ -1,3 +1,9 @@
+# Environments
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local manuscript and notes
 *.docx
 supplementary.txt
-

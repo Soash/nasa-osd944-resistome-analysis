@@ -1,0 +1,45 @@
+2026-04-24 15:19:05,526 - INFO - Reading sample IDs from data/clean_metadata.tsv...
+2026-04-24 15:19:05,530 - INFO - Found 32 samples in metadata. Starting annotation downloads...
+2026-04-24 15:19:08,652 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S1-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:10,560 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S2-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:12,181 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S3-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:13,614 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S4-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:14,743 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S5-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:16,480 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S6-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:18,340 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S7-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S7-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:19,350 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S8-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:20,781 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S9-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:22,627 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S10-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:23,873 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D1S11-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:25,698 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S1-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:27,951 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S2-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:29,794 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S3-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:31,228 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S4-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:32,661 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S5-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:34,307 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S6-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:35,323 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S7-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:36,758 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S8-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:38,598 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S9-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:39,832 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S10-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:40,651 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S11-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:41,467 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S12-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:42,634 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S13-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_D2S13-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:43,925 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_Buffer_AVE-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_Buffer_AVE-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:45,154 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_Lambda_DCS-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:46,179 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_Zymo_LD_MMC-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:47,207 - INFO - Already fully downloaded: GLDS-775_metagenomics-lowbiomass-shortread_Prep3_PC-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:48,944 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_5-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_5-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:50,272 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_6-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_6-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:51,304 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_7-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_7-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:52,534 - ERROR - Failed to fetch info for http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_8-gene-coverage-annotation-and-tax.tsv | Error: 404 Client Error: Not Found for url: http://nasa-osdr.s3-website-us-west-2.amazonaws.com/OSD-944/version-1/metagenomics-lowbiomass-shortread/GLDS-775_metagenomics-lowbiomass-shortread_Prep3_NTC_8-gene-coverage-annotation-and-tax.tsv
+2026-04-24 15:19:52,535 - INFO - =========================================
+2026-04-24 15:19:52,535 - INFO -          FINAL DOWNLOAD SUMMARY          
+2026-04-24 15:19:52,535 - INFO - =========================================
+2026-04-24 15:19:52,535 - INFO - Total Expected Samples: 32
+2026-04-24 15:19:52,535 - INFO - Successfully Acquired (New + Existing): 25
+2026-04-24 15:19:52,535 - INFO - Failed / Missing on Server: 7
+2026-04-24 15:19:52,535 - INFO - -----------------------------------------
+2026-04-24 15:19:52,535 - INFO - SUCCESSFUL IDs: D1S1, D1S2, D1S3, D1S4, D1S5, D1S6, D1S8, D1S9, D1S10, D1S11, D2S1, D2S2, D2S3, D2S4, D2S5, D2S6, D2S7, D2S8, D2S9, D2S10, D2S11, D2S12, Lambda_DCS, Zymo_LD_MMC, PC
+2026-04-24 15:19:52,536 - INFO - FAILED IDs: D1S7, D2S13, Buffer_AVE, NTC_5, NTC_6, NTC_7, NTC_8
+2026-04-24 15:19:52,536 - WARNING - Note: Files like D1S7, D2S13, Buffer_AVE, and NTCs are known to be natively missing from the OSDR Prep3 server.
+2026-04-24 15:19:52,536 - INFO - Detailed log saved to: /home/soash/research/cleanroom/spacecraft-resistome-dynamics/data/logs/3_download_annotations.log

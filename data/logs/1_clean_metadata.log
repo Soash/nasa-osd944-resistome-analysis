@@ -1,0 +1,10 @@
+2026-04-24 15:19:04,060 - INFO - Metadata files already exist. Skipping download.
+2026-04-24 15:19:04,060 - INFO - Loading raw metadata from data/archive/s_OSD-944.txt...
+2026-04-24 15:19:04,064 - INFO - Initial raw data shape: (38, 27)
+2026-04-24 15:19:04,066 - INFO - Sample Types distribution before filtering:
+2026-04-24 15:19:04,068 - INFO -   Environmental: 24
+2026-04-24 15:19:04,068 - INFO -   Control: 14
+2026-04-24 15:19:04,069 - INFO - Filtering for Prep_Number == '3' (Illumina)...
+2026-04-24 15:19:04,071 - INFO - Final cleaned data shape: (32, 5)
+2026-04-24 15:19:04,074 - INFO - Cleaned metadata successfully saved to data/clean_metadata.tsv
+2026-04-24 15:19:04,074 - INFO - Pipeline complete. Log saved to /home/soash/research/cleanroom/spacecraft-resistome-dynamics/data/logs/1_clean_metadata.log
