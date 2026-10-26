@@ -1,17 +1,16 @@
 # Spacecraft Cleanroom Resistome Dynamics 🚀🦠
 ### *Environmental Resistome and Homogenization of Extremotolerant Communities in Jet Propulsion Laboratory Cleanroom Environments*
 
-[![NASA OSDR OSD-944](https://img.shields.io/badge/NASA%20OSDR-OSD--944-blue.svg)](https://osdr.nasa.gov/bio/repo/data/studies/OSD-944)
-[![DOI](https://img.shields.io/badge/DOI-10.26030%2F3zww--vy60-green.svg)](https://doi.org/10.26030/3zww-vy60)
-[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data_Engineering-150458?logo=pandas)](https://pandas.pydata.org/)
-[![SciPy](https://img.shields.io/badge/SciPy-Statistical_Analysis-8CAAE6?logo=scipy)](https://scipy.org/)
-[![scikit-bio](https://img.shields.io/badge/scikit--bio-Ecological_Ordination-green)](http://scikit-bio.org/)
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 **Author(s):** Md Abu Sadat Soash  
 *Department of Genetic Engineering and Biotechnology*<br>
 *Shahjalal University of Science and Technology, Sylhet, Bangladesh*
+
+[![NASA OSDR OSD-944](https://img.shields.io/badge/NASA%20OSDR-OSD--944-blue.svg)](https://osdr.nasa.gov/bio/repo/data/studies/OSD-944)
+[![DOI](https://img.shields.io/badge/DOI-10.26030%2F3zww--vy60-green.svg)](https://doi.org/10.26030/3zww-vy60)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+
 
 ---
 
