@@ -13,7 +13,7 @@
 
 ---
 
-## 📌 Abstract
+## Abstract
 
 Jet Propulsion Laboratory (JPL) cleanroom environments adhere to strict planetary protection protocols to minimize microbial bioburden, inadvertently creating selective pressures that drive the survival of extremotolerant, multidrug-resistant (MDR) microbes. This study maps the spatial distribution and ecological diversity of the environmental resistome within a JPL Mars Exploration Program cleanroom using short-read metagenomic sequencing data (**OSD-944** / **GLDS-775**). Following the removal of mock community controls and normalization of sequencing depth to Coverage Per Million (CPM), the resistome was characterized against the KEGG and BacMet databases.
 
@@ -21,7 +21,7 @@ Spatial analysis revealed the highest localized burdens of antimicrobial resista
 
 ---
 
-## 🧬 Key Scientific Findings
+## Key Scientific Findings
 
 ### 1. Assembly Success & Master Functional Matrix
 From 38 raw samples, 32 samples processed under the standardized "Prep 3" Illumina Nextera XT protocol were curated. Environmental cleanroom samples demonstrated a 100% assembly rate, yielding a unified matrix of 62,195 functional gene annotations.
@@ -62,7 +62,7 @@ From 38 raw samples, 32 samples processed under the standardized "Prep 3" Illumi
 
 ---
 
-## 📈 Key Visualizations
+## Key Visualizations
 
 ### Ecological Diversity of the Resistome
 | Alpha Diversity (Shannon Index Across Locations) | Beta Diversity (Principal Coordinate Analysis - True PCoA) |
@@ -81,7 +81,7 @@ From 38 raw samples, 32 samples processed under the standardized "Prep 3" Illumi
 
 ---
 
-## ⚙️ Pipeline Architecture
+## Pipeline Architecture
 
 The workflow is available in two parallel formats: **automated CLI scripts** (`run.py` & `.py`) for production execution, and **interactive Jupyter Notebooks** (`.ipynb`) for step-by-step exploration.
 
@@ -124,7 +124,7 @@ NASA OSDR OSD-944 ISA Metadata & S3 Annotations
 
 ---
 
-## 🚀 Execution & Usage
+## Execution & Usage
 
 You can run the analysis either with the **one-click automated orchestrator** or interactively through **Jupyter Notebooks**.
 
@@ -166,7 +166,7 @@ Execute notebooks sequentially from `1_clean_metadata.ipynb` through `6_stat.ipy
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 .
@@ -216,7 +216,7 @@ Execute notebooks sequentially from `1_clean_metadata.ipynb` through `6_stat.ipy
 
 ---
 
-## 📊 Summary Output Tables
+## Summary Output Tables
 
 Downstream results and summary tables are persisted in `data/`:
 * **`data/summary_location_burden.tsv`**: Total AMR CPM aggregated by cleanroom zones (Cabinets, Gowning Room, Airlock, Spacecraft, etc.).
@@ -227,7 +227,7 @@ Downstream results and summary tables are persisted in `data/`:
 
 ---
 
-## 📚 Dataset Attribution & References
+## Dataset Attribution & References
 
 1. **Guan, L., Hinzer, A., Parker, C., & Cooper, M. (2026).** *JPL Mars Exploration Program Interlab Cleanroom Metagenomics*, NASA Open Science Data Repository, Version 1, [DOI: 10.26030/3zww-vy60](http://doi.org/10.26030/3zww-vy60).
 2. **Kanehisa, M., Furumichi, M., Sato, Y., Kawashima, M., & Ishiguro-Watanabe, M. (2023).** KEGG for taxonomy-based analysis of pathways and genomes. *Nucleic Acids Research*, 51(D1), D587–D592.
@@ -237,7 +237,7 @@ Downstream results and summary tables are persisted in `data/`:
 
 ---
 
-## 📄 License & Acknowledgements
+## License & Acknowledgements
 
 * **Data License:** NASA Open Science Data Repository (OSDR) data is provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 * **Code License:** Open for academic and research use under CC-BY (Attribution).
